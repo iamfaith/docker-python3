@@ -1,4 +1,4 @@
-FROM xianzixiang:xenial
+FROM xianzixiang/xenial
 MAINTAINER faith
 
 RUN apt-get update -qq
